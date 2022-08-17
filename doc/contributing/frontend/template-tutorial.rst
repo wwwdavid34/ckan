@@ -51,7 +51,7 @@ useful for making a them more customisable.
 Secondary Content
 -----------------
 
-Secondary content usually compromises of reusable modules which are
+Secondary content usually comprises of reusable modules which are
 pulled in as snippets. Snippets are also very useful for keeping the
 templates clean and allowing theme extensions to override them.
 
